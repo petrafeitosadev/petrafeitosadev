@@ -1,16 +1,16 @@
-## Hi there 👋
+# Petra Feitosa
 
-<!--
-**petrafeitosadev/petrafeitosadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora focada em Python, JavaScript e HTML — sempre buscando escrever código limpo, eficiente e com propósito.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**  
+- **JavaScript**  
+- **HTML**
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=petrafeitosadev&show_icons=true&theme=default&count_private=true&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrafeitosadev&layout=compact&theme=default" />
+</div>
