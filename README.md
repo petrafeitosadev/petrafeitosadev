@@ -3,7 +3,7 @@
 focada em desenvolvimento web backend, soluções SQL e prototipação funcional— sempre buscando escrever código limpo, eficiente e com propósito.
 
 ## 📫 Contato
-[![Gmail Badge](https://img.shields.io/badge/-feitosapetra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrafeitosa@gmail.com)](mailto:petrafeitosa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-petrafeitosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petrafeitosa@gmail.com)](mailto:petrafeitosa@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-petrafeitosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petra-feitosa/)](https://www.linkedin.com/in/petra-feitosa/)
 
 ## 🛠️ Tecnologias
